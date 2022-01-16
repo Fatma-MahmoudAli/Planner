@@ -1,0 +1,44 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "quote": "self care",
+      "title": "January",
+      "challenge": "Daily Journaling",
+      "weight": 2,
+      "habbit": "Ridding",
+      "books": "خلوة الغلبان",
+      "savemoney": 500,
+      "course": "js,css",
+      "event": "A",
+      "blog": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "image": "https://www.freepik.com/free-vector/handling-order-processing-abstract-concept-vector-illustration-order-documentation-processing-system-handling-customer-request-logistics-automated-logistics-operations-abstract-metaphor_11667324.htm?query=todolist"
+    },
+    {
+      "title": "february",
+      "blog": "bf",
+      "challenge": "Workout",
+      "books": "1",
+      "weight": "1",
+      "habbit": "dsf",
+      "course": "fdg",
+      "event": "gh",
+      "eventdate": "2022-01-03",
+      "quote": "caring",
+      "id": 2
+    },
+    {
+      "title": "march",
+      "blog": "having break from social media ",
+      "challenge": "peace",
+      "books": "2",
+      "habbit": "reading",
+      "course": "css",
+      "event": "travel",
+      "eventdate": "2022-03-15",
+      "quote": "self love ",
+      "image": "C:\\fakepath\\mental.jpg",
+      "id": 3
+    }
+  ]
+}
